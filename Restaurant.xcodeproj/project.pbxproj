@@ -19,6 +19,7 @@
 		52FF471925BA6F4D00B3888F /* MenuItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FF471825BA6F4D00B3888F /* MenuItemDetailViewController.swift */; };
 		52FF471C25BA6FE300B3888F /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FF471B25BA6FE300B3888F /* MenuItem.swift */; };
 		52FF471F25BA707300B3888F /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FF471E25BA707300B3888F /* MenuController.swift */; };
+		52FF472225BB53E100B3888F /* OrderConfirmationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FF472125BB53E100B3888F /* OrderConfirmationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		52FF471825BA6F4D00B3888F /* MenuItemDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemDetailViewController.swift; sourceTree = "<group>"; };
 		52FF471B25BA6FE300B3888F /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		52FF471E25BA707300B3888F /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
+		52FF472125BB53E100B3888F /* OrderConfirmationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderConfirmationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				52FF46FC25BA699C00B3888F /* SceneDelegate.swift */,
 				52FF46FE25BA699C00B3888F /* ViewController.swift */,
 				52FF470025BA699C00B3888F /* Main.storyboard */,
+				52FF472125BB53E100B3888F /* OrderConfirmationViewController.swift */,
 				52FF471B25BA6FE300B3888F /* MenuItem.swift */,
 				52FF471E25BA707300B3888F /* MenuController.swift */,
 				52FF471825BA6F4D00B3888F /* MenuItemDetailViewController.swift */,
@@ -155,6 +158,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52FF472225BB53E100B3888F /* OrderConfirmationViewController.swift in Sources */,
 				52FF46FF25BA699C00B3888F /* ViewController.swift in Sources */,
 				52FF471F25BA707300B3888F /* MenuController.swift in Sources */,
 				52FF46FB25BA699C00B3888F /* AppDelegate.swift in Sources */,
